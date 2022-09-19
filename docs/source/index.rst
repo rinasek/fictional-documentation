@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
-===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+# Introduction
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Drupal Commerce is the leading flexible eCommerce solution for Drupal,
+powering over 50,000 online stores of all sizes.
 
-.. note::
+If you are new to Drupal, start with [Drupal.org] documentation on [Understanding Drupal]
 
-   This project is under active development.
+[If you develop in Drupal 7, access documentation here for Commerce 1.x](../02.commerce1)
 
-Contents
---------
+[If you develop in Drupal 8, access documentation here for Commerce 2.x](../03.commerce2)
 
-.. toctree::
+Documentation is hosted on, and courtesy of [Platform.sh].
 
-   usage
-   api
+[Platform.sh]: https://platform.sh
+[Drupal.org]: https://www.drupal.org
+[Understanding Drupal]: https://www.drupal.org/docs/8/understanding-drupal-8
+
